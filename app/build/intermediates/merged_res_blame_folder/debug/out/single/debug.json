@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_dene.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/dene.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_sagokicon.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/sagokicon.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_iso.jpg.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/iso.jpg"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_passwordicon.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/passwordicon.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_calendarnew.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/calendarnew.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_backgr.jpg.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/backgr.jpg"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/layout_activity_login_screen.xml.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/layout/activity_login_screen.xml"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_trophyiconnew.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/trophyiconnew.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_hpage.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/hpage.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_mailicon.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/mailicon.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_healthicon.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/healthicon.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_sporticon.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/sporticon.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_battledeneme.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/battledeneme.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_google.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/google.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_ghome.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/ghome.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_educationicon.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/educationicon.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_notificationiconnew.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/notificationiconnew.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_logouticon.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/logouticon.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_gsettings.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/gsettings.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_notificationicon.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/notificationicon.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_tavuk.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/tavuk.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_gperson.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/gperson.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/layout_activity_profile.xml.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_backdeneme.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/backdeneme.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_backgrdeneme.jpg.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/backgrdeneme.jpg"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_back.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/back.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_iconhome.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/iconhome.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_round_image.xml.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/round_image.xml"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_gstats.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/gstats.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_back2.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/back2.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_facebook.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/facebook.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_logoutnew.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/logoutnew.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_calendaricon.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/calendaricon.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_selfimprovementicon.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/selfimprovementicon.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_avatardenemetest.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/avatardenemetest.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_arc_3.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/arc_3.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_trophyicon.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/trophyicon.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_tavukistedi.png.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/tavukistedi.png"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/layout_activity_register_screen.xml.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/layout/activity_register_screen.xml"
+    },
+    {
+        "merged": "com.example.tavukladeneme.app-merged_res-32:/drawable_smallpassword.xml.flat",
+        "source": "com.example.tavukladeneme.app-main-34:/drawable/smallpassword.xml"
+    }
+]
