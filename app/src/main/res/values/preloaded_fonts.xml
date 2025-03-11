@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/allura</item>
+        <item>@font/anton</item>
+        <item>@font/eater</item>
+        <item>@font/pacifico</item>
+        <item>@font/poppins_thin</item>
+        <item>@font/rajdhani_light</item>
+        <item>@font/rubik_burned</item>
+    </array>
+</resources>

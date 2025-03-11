@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Boş kalan arka plan -->
+    <item android:id="@android:id/background">
+        <shape android:shape="rectangle">
+            <solid android:color="#1E1E1E"/>  <!-- Arka plan rengi -->
+            <corners android:radius="10dp"/>  <!-- Keskin köşeler -->
+        </shape>
+    </item>
+
+    <!-- Dolan kısım (Blok şeklinde ilerleyen progress) -->
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape android:shape="rectangle">
+                <solid android:color="#FFD700"/>  <!-- Pixel Art için altın rengi -->
+                <corners android:radius="10dp"/>
+            </shape>
+        </clip>
+    </item>
+</layer-list>

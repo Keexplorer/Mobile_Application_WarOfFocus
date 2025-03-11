@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav"
+    app:startDestination="@id/anasayfaFragment">
+
+    <fragment
+        android:id="@+id/anasayfaFragment"
+        android:name="com.example.focusapp2.ui.fragment.AnasayfaFragment"
+        android:label="fragment_anasayfa"
+        tools:layout="@layout/fragment_anasayfa" >
+        <action
+            android:id="@+id/gecisSavas"
+            app:destination="@id/seceneklerFragment" />
+    </fragment>
+    <dialog
+        android:id="@+id/seceneklerFragment"
+        android:name="com.example.focusapp2.ui.fragment.SeceneklerFragment"
+        android:label="fragment_secenekler"
+        tools:layout="@layout/fragment_secenekler" >
+        <action
+            android:id="@+id/gecisFocus"
+            app:destination="@id/focusFragment" />
+    </dialog>
+    <fragment
+        android:id="@+id/focusFragment"
+        android:name="com.example.focusapp2.ui.fragment.FocusFragment"
+        android:label="FocusFragment" />
+</navigation>

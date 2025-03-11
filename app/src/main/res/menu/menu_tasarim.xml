@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/baseline_home_24"
+        android:title="Anasayfa" />
+    <item
+        android:icon="@drawable/baseline_bar_chart_24"
+        android:title="İstatistik" />
+    <item
+        android:icon="@drawable/baseline_person_24"
+        android:title="Profil" />
+    <item
+        android:icon="@drawable/baseline_person_24"
+        android:title="Ornek" />
+</menu>
