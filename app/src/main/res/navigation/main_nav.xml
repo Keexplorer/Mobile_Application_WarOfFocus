@@ -3,8 +3,19 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main_nav"
-    app:startDestination="@id/anasayfaFragment">
+    app:startDestination="@+id/registerFragment">
 
+    <fragment
+        android:id="@+id/registerFragment"
+        android:name="com.example.focusapp2.ui.fragment.RegisterFragment"
+        android:label="register"
+        tools:layout="@layout/activity_register_screen">
+        <action
+            android:id="@+id/Kayit"
+            app:destination="@id/anasayfaFragment">
+
+        </action>
+    </fragment>
     <fragment
         android:id="@+id/anasayfaFragment"
         android:name="com.example.focusapp2.ui.fragment.AnasayfaFragment"
