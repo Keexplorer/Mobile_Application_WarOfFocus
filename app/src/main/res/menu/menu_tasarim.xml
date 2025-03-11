@@ -8,9 +8,9 @@
         android:icon="@drawable/baseline_bar_chart_24"
         android:title="İstatistik" />
     <item
-        android:icon="@drawable/baseline_person_24"
+        android:icon="@drawable/gperson"
         android:title="Profil" />
     <item
-        android:icon="@drawable/baseline_person_24"
+        android:icon="@drawable/gsettings"
         android:title="Ornek" />
 </menu>

@@ -18,7 +18,7 @@ class FocusFragment : Fragment() {
 
     val stepSize = 5
     private var isAppInBg =false
-    private var time :Int =2
+    private var time :Int =10
     private lateinit var binding: FragmentFocusBinding
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?
     ): View? {
@@ -50,7 +50,7 @@ class FocusFragment : Fragment() {
                 override fun onTick(p0: Long) {
                     val f = DecimalFormat("00")
 
-                    val min = (p0 / 60000) % 60
+                    val min = (p0 / 60000)
                     val sec = (p0 / 1000) % 60
 
                     binding.txtTime.setText(f.format(min)+":"+f.format(sec))

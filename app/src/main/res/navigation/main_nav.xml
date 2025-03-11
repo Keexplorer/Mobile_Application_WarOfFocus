@@ -37,5 +37,8 @@
     <fragment
         android:id="@+id/focusFragment"
         android:name="com.example.focusapp2.ui.fragment.FocusFragment"
-        android:label="FocusFragment" />
+        android:label="FocusFragment"
+        tools:layout="@layout/fragment_focus">
+
+    </fragment>
 </navigation>
