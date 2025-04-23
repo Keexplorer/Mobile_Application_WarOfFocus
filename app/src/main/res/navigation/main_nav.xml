@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main_nav"
-    app:startDestination="@+id/registerFragment">
+    app:startDestination="@id/profileFragment">
 
     <fragment
         android:id="@+id/registerFragment"
@@ -41,4 +41,10 @@
         tools:layout="@layout/fragment_focus">
 
     </fragment>
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.focusapp2.ui.fragment.ProfileFragment"
+        android:label="Profil"
+        tools:layout="@layout/fragment_profile" />
 </navigation>

@@ -9,7 +9,8 @@
         android:title="İstatistik" />
     <item
         android:icon="@drawable/gperson"
-        android:title="Profil" />
+        android:title="Profil"
+        android:id="@+id/nav_profile"/>
     <item
         android:icon="@drawable/gsettings"
         android:title="Ornek" />
